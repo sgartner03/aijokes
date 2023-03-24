@@ -15,6 +15,8 @@ var witze = []string{
 	"8. Was ist das Lieblingsessen eines Elektrikers? Spannungskartoffeln!",
 	"9. Was macht ein Mathematiker, wenn er seekrank wird? Er errechnet den Kotzvektor!",
 	"10. Warum hatte der Schmetterling",
+	"11. 1010",
+	"12. Why did the tomato refuse to jump out of the battle bus in Fortnite? Because it didn't have the guts to ketchup with the competition!",
 }
 
 func BringMichZumLachen() string {
